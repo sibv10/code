@@ -1,0 +1,16 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2",
+    "webdriverio": "^4.8.0"
+  }
+}
